@@ -1,0 +1,10 @@
+1. Python basics -  data structures, loops, conditions, variables, data types, exception handling, OOP, file operations, numpy, pandas
+2. Spark Basics -  any udemy spark course for hands on.
+3. Databricks basics -  any udemy course for hands on.
+4. Databricks Certified Developer Apache Spark 3.0
+5. ETL using python
+6. ETL using Pyspark in Databricks -  batch, streaming, kafka, parquet file formats.
+7. Extend to CICD pipeline
+8. Extend to deploying containerized solution/framework of ETL/pyspark/databricks
+9. System design - architect the solutions.
+10. snowflake DWH. 
